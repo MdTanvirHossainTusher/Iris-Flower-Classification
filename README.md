@@ -65,7 +65,7 @@ All the models beat the baseline model and their performance all almost similar.
 
 # Features Distribution Property
 
-From the image, we can see that, there is a `Normal Distribution` in `Sepal Length & Width` but `Bi-Directional` in `Petal Length & Width`.
+From the image, we can see that, there is a `Normal Distribution` in `Sepal Length & Width (first two images)` but `Bi-Directional` in `Petal Length & Width (last two images)`.
 
 <img src="image/sepal_length.PNG" alt="sepal length" style="width:200px;height:200px;"> </br>
 <img src="image/sepal_width.PNG" alt="sepal width" style="width:200px;height:200px;"> </br>
