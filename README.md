@@ -19,7 +19,7 @@ Datasets is trained using `Logistic Regression`, `Decision Tree`, `Support Vecto
 
 
 # Result Analysis
-In the table I showed the Precision, Recall, F1 score and  accuracy for three models.
+In the table we see the beseline models accuracy, training and testing accuracy of the respective models.
 <table>
 <thead>
     <tr>
